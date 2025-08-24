@@ -1,0 +1,6 @@
+[
+    {
+        "query": "액상세포검사-흡인 세포병리검사 eligible for medical insurance coverage?",
+        "response": "The provided text does not contain any information regarding the coverage of liquid biopsy-aspiration cytology by medical insurance, so I am unable to answer this question from the given context."
+    }
+]
